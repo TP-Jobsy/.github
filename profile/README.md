@@ -50,7 +50,7 @@
 
 [Swagger API](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/Jonnnnh/jobsy-server/refs/heads/master/docs/swagger.yaml);
 
-Roadmap ([Docx](?)) ([Pdf](?));
+Roadmap  ([Pdf](https://github.com/TP-Jobsy/jobsy-docs/blob/main/Roadmap.pdf));
 
 Brandbook ([Pdf](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/BrandBook.pdf));
 
