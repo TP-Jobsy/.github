@@ -16,6 +16,7 @@
 - [Видео по проекту](#видео-по-проекту)
 
 ---
+
 ## Описание проекта:
 
 **Jobsy** — это мобильное приложение, предназначенное для взаимодействия между фрилансерами и заказчиками. Платформа упрощает поиск, создание проектов и коммуникацию между пользователями, делая процесс сотрудничества удобным, прозрачным и технологичным.
@@ -51,7 +52,7 @@
 
 Roadmap ([Docx](?)) ([Pdf](?));
 
-Brandbook ([Pdf](https://github.com/Jonnnnh/Jobsy/blob/main/documentation/presentation/BrandBook.pdf));
+Brandbook ([Pdf](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/BrandBook.pdf));
 
 Техническое задание ([Docx](?)) ([Pdf](?));
 
