@@ -80,7 +80,7 @@
 
 ## 🎤 Презентация проекта
 
-[Презентация технического задания - 1 аттестация](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/presentation_1_atta.pdf).
+[Презентация технического задания - 1 аттестация](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/presentation_1_atta.pdf)
 
 ---
 
