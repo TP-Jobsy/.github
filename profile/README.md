@@ -36,10 +36,9 @@
 
 ## 🔗 Сервисы
 
-- **Jira** — [Task Manager]
-   📋 [Управление задачами](https://id.atlassian.com/invite/p/jira-software?id=WJAgO7feT9quisp3g6oqdA) 
+- **Jira** — Task Manager
+  📋 [Управление задачами](https://id.atlassian.com/invite/p/jira-software?id=WJAgO7feT9quisp3g6oqdA) 
  
-
 - **Miro** — UML-диаграммы, Roadmap  
   📝 [Доска для совместной работы](https://miro.com/welcomeonboard/MGFlM0NDUzk5U1VmTWs3b25wVURXMkp2MG00ajdUU1BFYjh5U2xkR0JuUDNWTG1PRVd1dUVmSm9XMlRQeHNmWUprRVZQaXR3ZFNpNjF6cmxJYSt0L085VnRyakFOVlFyUHhMblExQVdDQ2luZW5MUm00MllCWmgyNHd0TDJxVVJBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=24772151417)
 
