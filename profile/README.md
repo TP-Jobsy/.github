@@ -96,7 +96,7 @@
 
 ## 📌 Итоги проверки других команд 
 
-[Чеклист 1 этап](https://docs.google.com/spreadsheets/d/1jN0WhlMp-dbkor8_zD2-vHYrJgdI0iG72qCjjSk9zsg/edit?gid=1942842703#gid=1942842703)
+[Чеклист 1 этап](https://github.com/TP-Jobsy/jobsy-docs/blob/main/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
 
 ## 👇 Нас оценивали 
 
