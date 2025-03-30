@@ -36,7 +36,7 @@
 
 ## 🔗 Сервисы
 
-- **Jira** — [Task Manager]([https://sharpine985.atlassian.net/jira/software/projects/SCRUM/list](https://id.atlassian.com/invite/p/jira-software?id=WJAgO7feT9quisp3g6oqdA))  
+- **Jira** — [Task Manager]([https://sharpine985.atlassian.net/jira/software/projects/SCRUM/list](https://id.atlassian.com/invite/p/jira-software?id=WJAgO7feT9quisp3g6oqdA) 
   📋 Управление задачами
 
 - **Miro** — UML-диаграммы, Roadmap  
