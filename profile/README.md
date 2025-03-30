@@ -101,3 +101,6 @@
  ## Нас оценивали 
 
 - [5 группа 3 команда](file:///C:/Users/PK/Downloads/Telegram%20Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20-%20%D0%9B%D0%B8%D1%81%D1%821.pdf)
+- [5 группа 1 команда](https://docs.google.com/spreadsheets/d/1gOgvSLDdwnKQmRVS4lYkCqVaNZlnIfPWzAO7U1eoq2s/edit?usp=drive_link)
+- [1 группа 1 команда](https://docs.google.com/spreadsheets/d/1TkkNAfymy03UyZurFbbVLIurNk5RJR-yKNPpU5rKRvw/edit?gid=116236438#gid=116236438)
+- [3 группа 3 команда]()
