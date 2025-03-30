@@ -97,4 +97,7 @@
 ## 📌 Итоги проверки других команд 
 
 [Чеклист 1 этап](https://docs.google.com/spreadsheets/d/1jN0WhlMp-dbkor8_zD2-vHYrJgdI0iG72qCjjSk9zsg/edit?gid=1942842703#gid=1942842703)
- 
+
+ ## Нас оценивали 
+
+- [5 группа 3 команда](file:///C:/Users/PK/Downloads/Telegram%20Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20-%20%D0%9B%D0%B8%D1%81%D1%821.pdf)
