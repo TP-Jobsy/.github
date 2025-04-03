@@ -58,10 +58,10 @@
   [API документация](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/Jonnnnh/jobsy-server/refs/heads/master/docs/swagger.yaml)
 
 - **Roadmap:**  
-  [PDF документ](https://github.com/TP-Jobsy/jobsy-docs/blob/main/Roadmap.pdf)
+  [PDF документ](https://github.com/TP-Jobsy/jobsy-docs/blob/main/roadmap/Roadmap.pdf)
 
 - **Brandbook:**  
-  [PDF документ](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/BrandBook.pdf)
+  [PDF документ](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/brandbook/BrandBook.pdf)
 
 - **Техническое задание:**  
   [Docx документ](https://github.com/TP-Jobsy/jobsy-docs/blob/main/technical-specification/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx) | [PDF документ](https://github.com/TP-Jobsy/jobsy-docs/blob/main/technical-specification/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
@@ -88,7 +88,7 @@
 
 ## 🎤 Презентация проекта
 
-[Презентация технического задания - 1 аттестация](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/presentation_1_atta.pdf)
+[Презентация технического задания - 1 аттестация](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/atta_1/presentation_1_atta.pdf)
 
 ---
 
@@ -98,7 +98,7 @@
 
 ## 📌 Итоги проверки других команд 
 
-[Чеклист 1 этап](https://github.com/TP-Jobsy/jobsy-docs/blob/main/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
+[Чеклист 1 этап](https://github.com/TP-Jobsy/jobsy-docs/blob/main/checklist/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
 
 ## 👇 Нас оценивали 
 
