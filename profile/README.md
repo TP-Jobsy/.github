@@ -38,7 +38,7 @@
 
 ## 🔗 Сервисы
 
-- **Jira** — Task Manager 
+- **Jira** — Task Manager
   📋 [Управление задачами](https://id.atlassian.com/invite/p/jira-software?id=WJAgO7feT9quisp3g6oqdA) 
  
 - **Miro** — UML-диаграммы, Roadmap  
