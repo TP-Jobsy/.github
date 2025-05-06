@@ -106,6 +106,8 @@
 
 [Презентация технического задания - 1 аттестация](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/atta_1/presentation_1_atta.pdf)
 
+[Презентация MVP - 2 аттестация](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/atta_1/presentation_1_atta.pdf)
+
 ---
 
 ## 🎥 Видео по проекту
