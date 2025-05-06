@@ -112,6 +112,8 @@
 
 [Видеопрезентация технического задания RUTUBE](https://rutube.ru/video/private/15372e29910a791a3859230e07169c6c/?p=169sWO27s-uufVT19BYoVw)
 
+[Видеопрезентация MVP RUTUBE](https://rutube.ru/video/private/15372e29910a791a3859230e07169c6c/?p=169sWO27s-uufVT19BYoVw)
+
 ## 📌 Итоги проверки других команд 
 
 [Чеклист 1 этап](https://github.com/TP-Jobsy/jobsy-docs/blob/main/checklist/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
