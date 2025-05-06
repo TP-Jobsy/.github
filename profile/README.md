@@ -128,6 +128,8 @@
 - [3 группа 3 команда](https://github.com/qudest/voyago/blob/main/Documentation/Check-list.pdf)
 
 ## 👇 Нас оценивали 2
+
+- [7 группа 1 команда](https://github.com/TP-RENTPLACE/RENTPLACE/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
 - [5 группа 3 команда]
 - [1 группа 1 команда]
 - [3 группа 3 команда](https://github.com/qudest/voyago/blob/main/Documentation/check-list-2.pdf)
