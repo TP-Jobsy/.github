@@ -132,6 +132,6 @@
 ### 👇 Нас оценивали 2 этап
 
 - [7 группа 1 команда](https://github.com/TP-RENTPLACE/RENTPLACE/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
-- [5 группа 3 команда](https://github.com/capti/Cardly/blob/main/Documentation/%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
+- [5 группа 1 команда](https://github.com/capti/Cardly/blob/main/Documentation/%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
 - [1 группа 1 команда](https://github.com/MarketHelp/MarketHelp/blob/main/specification/check/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF%201%D0%B31%D0%BA.pdf)
 - [3 группа 3 команда](https://github.com/qudest/voyago/blob/main/Documentation/check-list-2.pdf)
