@@ -81,7 +81,7 @@
 - **План тестирования:** 
   [Docx документ](https://github.com/TP-Jobsy/jobsy-docs/blob/main/testing/Тестирование%20приложения%20Jobsy.docx) | [PDF документ](https://github.com/TP-Jobsy/jobsy-docs/blob/main/testing/Тестирование%20приложения%20Jobsy.pdf)
 - **Отчет о тестировании MVP:** 
-  [Docx документ]() | [PDF документ]()
+  [Docx документ](https://github.com/TP-Jobsy/jobsy-docs/blob/main/testing/Отчет%20о%20тестировании.docx) | [PDF документ](https://github.com/TP-Jobsy/jobsy-docs/blob/main/testing/Отчет%20о%20тестировании.pdf)
 - **Тест-кейсы ручных QA:** 
   [Google Sheets](https://docs.google.com/spreadsheets/d/1ahSgalHCV-B7-_Ug0IuC-dercompI5gfodonu3VesNY/edit?usp=sharing)
 
