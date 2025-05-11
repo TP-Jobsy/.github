@@ -139,4 +139,4 @@
 
 ## 📍 Релиз приложения
 
-🔹[Jobsy](https://github.com/TP-Jobsy/jobsy-client/releases/tag/v0.1.0)
+- [Jobsy](https://github.com/TP-Jobsy/jobsy-client/releases/tag/v0.1.0)
