@@ -137,35 +137,35 @@
 - [3 группа 3 команда](https://github.com/qudest/voyago/blob/main/Documentation/check-list-2.pdf)
 - [3 группа 2 команда](https://github.com/dnlksnvv/Trainova/blob/develop/docs/%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B52%D0%B0%D1%82%D1%82%D0%B0.pdf)
 
+
 ## 🚀 Релиз приложения
 
 <div align="center">
-  <a href="https://github.com/TP-Jobsy/jobsy-client/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/Version-1.0.0-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="Версия">
-  </a>
-  <a href="https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk">
-    <img src="https://img.shields.io/badge/Download_APK-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Скачать APK">
-  </a>
+
+[![Version Badge](https://img.shields.io/badge/v1.0.0-4285F4?style=flat-square&logo=google-play&logoColor=white)](https://github.com/TP-Jobsy/jobsy-client/releases/tag/v1.0.0)
+[![APK Download](https://img.shields.io/badge/Download_APK-34A853?style=flat-square&logo=android&logoColor=white)](https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk)
+[![Source Code](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TP-Jobsy/jobsy-client/tree/v1.0.0)
+
 </div>
 
-### ✨ Ключевые возможности
-| Функция | Описание |
-|---------|----------|
-| 🔐 Аутентификация | Полноценная система регистрации и входа |
-| 👥 Профили | Детальные профили фрилансеров и заказчиков |
-| 💼 Проекты | Создание и поиск проектов с фильтрами |
+**Основные функции:**
+- 🔐 Система аутентификации
+- 👔 Персонализированные профили
+- 🔎 Поиск фрилансеров/проектов
+- 💬 Встроенный чат
 
-## 🔐 Админ-панель
+## ⚙️ Админ-панель
 
 <div align="center">
-  <a href="https://jobsyapp.ru/">
-    <img src="https://img.shields.io/badge/Admin_Panel-Open-2962FF?style=for-the-badge&logo=adminer&logoColor=white" alt="Админка">
-  </a>
+
+[![Admin Panel](https://img.shields.io/badge/Admin_Panel-FFCA28?style=flat-square&logo=powerapps&logoColor=000000)](https://jobsyapp.ru/)
+
 </div>
 
-### ⚡ Основные функции
-```diff
-+ Управление пользователями (блокировка, роли)
-+ Модерация контента (проекты, отзывы)
-# Аналитика активности пользователей
-! Системные настройки и конфигурации
+**Функционал:**
+- 👥 Управление пользователями
+- ✂️ Модерация контента
+- 📊 Аналитика платформы
+- ⚙️ Системные настройки
+
+<sub>*Доступ по запросу для администраторов*</sub>
