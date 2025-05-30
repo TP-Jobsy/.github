@@ -160,7 +160,7 @@
 
 <div align="left" style="margin-top: 20px;">
 
-[![Панель управления](https://img.shields.io/badge/АДМИН_ПАНЕЛЬ-FF6D00?style=for-the-badge&logo=probot&logoColor=white)](https://jobsyapp.ru/)
+[![Панель управления](https://img.shields.io/badge/АДМИН_ПАНЕЛЬ-6FBAFF?style=for-the-badge&logo=probot&logoColor=white)](https://jobsyapp.ru/)
 
 </div>
 
