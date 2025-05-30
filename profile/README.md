@@ -139,20 +139,33 @@
 
 ## 🚀 Релиз приложения
 
-### 📥 Последняя версия (v1.0.0)
-[![Release](https://img.shields.io/badge/Download-APK-blue?style=flat-square)](https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk)
-[![Source](https://img.shields.io/badge/Source-Code-lightgrey?style=flat-square)](https://github.com/TP-Jobsy/jobsy-client/tree/v1.0.0)
+<div align="center">
+  <a href="https://github.com/TP-Jobsy/jobsy-client/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/Version-1.0.0-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="Версия">
+  </a>
+  <a href="https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk">
+    <img src="https://img.shields.io/badge/Download_APK-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Скачать APK">
+  </a>
+</div>
 
-**Основные изменения:**
-- Полнофункциональное MVP с основными сценариями использования
-- Система аутентификации и профилей
-- Механизм создания/поиска проектов
+### ✨ Ключевые возможности
+| Функция | Описание |
+|---------|----------|
+| 🔐 Аутентификация | Полноценная система регистрации и входа |
+| 👥 Профили | Детальные профили фрилансеров и заказчиков |
+| 💼 Проекты | Создание и поиск проектов с фильтрами |
 
-## 🔐 Административная панель
-[![Admin](https://img.shields.io/badge/Admin_Panel-Live-green?style=flat-square)](https://jobsyapp.ru/)
+## 🔐 Админ-панель
 
-**Функционал:**
-- Управление пользователями
-- Модерация контента
-- Аналитика платформы
-- Системные настройки
+<div align="center">
+  <a href="https://jobsyapp.ru/">
+    <img src="https://img.shields.io/badge/Admin_Panel-Open-2962FF?style=for-the-badge&logo=adminer&logoColor=white" alt="Админка">
+  </a>
+</div>
+
+### ⚡ Основные функции
+```diff
++ Управление пользователями (блокировка, роли)
++ Модерация контента (проекты, отзывы)
+# Аналитика активности пользователей
+! Системные настройки и конфигурации
