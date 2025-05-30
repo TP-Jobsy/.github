@@ -138,34 +138,10 @@
 - [3 группа 2 команда](https://github.com/dnlksnvv/Trainova/blob/develop/docs/%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B52%D0%B0%D1%82%D1%82%D0%B0.pdf)
 
 
-## 🚀 Релиз приложения
+## 🚀 Релиз v1.0.0
 
-<div align="center">
+[![Get APK](https://img.shields.io/badge/-DOWNLOAD-black?style=for-the-badge&logo=android&logoColor=3ddc84)](https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk)
+[![Source](https://img.shields.io/badge/-SOURCE-black?style=for-the-badge&logo=github)](https://github.com/TP-Jobsy/jobsy-client/tree/v1.0.0)
 
-[![Version Badge](https://img.shields.io/badge/v1.0.0-4285F4?style=flat-square&logo=google-play&logoColor=white)](https://github.com/TP-Jobsy/jobsy-client/releases/tag/v1.0.0)
-[![APK Download](https://img.shields.io/badge/Download_APK-34A853?style=flat-square&logo=android&logoColor=white)](https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk)
-[![Source Code](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TP-Jobsy/jobsy-client/tree/v1.0.0)
-
-</div>
-
-**Основные функции:**
-- 🔐 Система аутентификации
-- 👔 Персонализированные профили
-- 🔎 Поиск фрилансеров/проектов
-- 💬 Встроенный чат
-
-## ⚙️ Админ-панель
-
-<div align="center">
-
-[![Admin Panel](https://img.shields.io/badge/Admin_Panel-FFCA28?style=flat-square&logo=powerapps&logoColor=000000)](https://jobsyapp.ru/)
-
-</div>
-
-**Функционал:**
-- 👥 Управление пользователями
-- ✂️ Модерация контента
-- 📊 Аналитика платформы
-- ⚙️ Системные настройки
-
-<sub>*Доступ по запросу для администраторов*</sub>
+### ⚙️ Админка
+[![Admin](https://img.shields.io/badge/-CONTROL_PANEL-black?style=for-the-badge&logo=windows-terminal)](https://jobsyapp.ru/)
