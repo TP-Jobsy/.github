@@ -140,34 +140,8 @@
 ## 🚀 Релиз приложения
 
 ### 📥 Последняя версия (v1.0.0)
-[![GitHub Release](https://img.shields.io/github/v/release/TP-Jobsy/jobsy-client?color=blue&label=Latest%20Release&style=for-the-badge)](https://github.com/TP-Jobsy/jobsy-client/releases/tag/v1.0.0)
-
-**Скачать:**  
-[APK для Android](https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk)  
-[Исходный код](https://github.com/TP-Jobsy/jobsy-client/tree/v1.0.0)
-
-**Основные изменения:**
-- Полнофункциональное MVP с основными сценариями использования
-- Система аутентификации и профилей
-- Механизм создания/поиска проектов
-- Чат между участниками
-
----
+[![Release](https://img.shields.io/badge/Download-APK-blue?style=flat-square)](https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk)
+[![Source](https://img.shields.io/badge/Source-Code-lightgrey?style=flat-square)](https://github.com/TP-Jobsy/jobsy-client/tree/v1.0.0)
 
 ## 🔐 Административная панель
-
-[![Admin Panel](https://img.shields.io/badge/Admin_Panel-Live-success?style=for-the-badge&logo=adminer)](https://jobsyapp.ru/)
-
-**Доступ:**  
-🔑 _Логин/пароль предоставляется по запросу_
-
-**Функционал:**
-- Управление пользователями
-- Модерация контента
-- Аналитика платформы
-- Системные настройки
-
-**Технологии:**
-- Spring Boot Admin
-- Custom Dashboard
-- Реaltime-мониторинг
+[![Admin](https://img.shields.io/badge/Admin_Panel-Live-green?style=flat-square)](https://jobsyapp.ru/)
