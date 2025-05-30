@@ -138,19 +138,33 @@
 - [3 группа 2 команда](https://github.com/dnlksnvv/Trainova/blob/develop/docs/%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B52%D0%B0%D1%82%D1%82%D0%B0.pdf)
 
 
-## Release Information
+## 🚀 Релиз приложения
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
 
-| Version | Download | Source |
-|---------|----------|--------|
-| `v1.0.0` | [📲 APK](https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk) | [📦 Source](https://github.com/TP-Jobsy/jobsy-client/tree/v1.0.0) |
+[![Версия](https://img.shields.io/badge/ВЕРСИЯ-v1.0.0-6e5494?style=for-the-badge&logo=git&logoColor=white)](https://github.com/TP-Jobsy/jobsy-client/releases)
+[![Скачать APK](https://img.shields.io/badge/СКАЧАТЬ_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk)
+[![Исходный код](https://img.shields.io/badge/КОД-181717?style=for-the-badge&logo=github)](https://github.com/TP-Jobsy/jobsy-client/tree/v1.0.0)
+
+</div>
+
+**Основные функции:**
+- 🔐 Современная аутентификация
+- 👔 Персонализированные профили
+- 🔍 Умный поиск проектов
+
+---
+
+## ⚙️ Админ-панель
+
+<div align="center" style="margin-top: 20px;">
+
+[![Панель управления](https://img.shields.io/badge/АДМИН_ПАНЕЛЬ-FF6D00?style=for-the-badge&logo=probot&logoColor=white)](https://jobsyapp.ru/)
 
 </div>
 
-## Admin Console
-<div align="center">
-
-[![Admin Portal](https://img.shields.io/badge/Access_Admin_Portal-2088FF?style=for-the-badge&logo=heroku)](https://jobsyapp.ru/)
-
-</div>
+**Функционал:**
+- 👥 Управление пользователями
+- ✂️ Модерация контента
+- 📊 Платформенная аналитика
+- ⚙️ Конфигурация системы
