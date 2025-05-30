@@ -137,10 +137,11 @@
 - [3 группа 3 команда](https://github.com/qudest/voyago/blob/main/Documentation/check-list-2.pdf)
 - [3 группа 2 команда](https://github.com/dnlksnvv/Trainova/blob/develop/docs/%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B52%D0%B0%D1%82%D1%82%D0%B0.pdf)
 
+---
 
 ## 🚀 Релиз приложения
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="left" style="margin-bottom: 20px;">
 
 [![Версия](https://img.shields.io/badge/ВЕРСИЯ-v1.0.0-6e5494?style=for-the-badge&logo=git&logoColor=white)](https://github.com/TP-Jobsy/jobsy-client/releases)
 [![Скачать APK](https://img.shields.io/badge/СКАЧАТЬ_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk)
@@ -157,7 +158,7 @@
 
 ## ⚙️ Админ-панель
 
-<div align="center" style="margin-top: 20px;">
+<div align="left" style="margin-top: 20px;">
 
 [![Панель управления](https://img.shields.io/badge/АДМИН_ПАНЕЛЬ-FF6D00?style=for-the-badge&logo=probot&logoColor=white)](https://jobsyapp.ru/)
 
