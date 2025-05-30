@@ -138,10 +138,19 @@
 - [3 группа 2 команда](https://github.com/dnlksnvv/Trainova/blob/develop/docs/%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B52%D0%B0%D1%82%D1%82%D0%B0.pdf)
 
 
-## 🚀 Релиз v1.0.0
+## Release Information
 
-[![Get APK](https://img.shields.io/badge/-DOWNLOAD-black?style=for-the-badge&logo=android&logoColor=3ddc84)](https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk)
-[![Source](https://img.shields.io/badge/-SOURCE-black?style=for-the-badge&logo=github)](https://github.com/TP-Jobsy/jobsy-client/tree/v1.0.0)
+<div align="center">
 
-### ⚙️ Админка
-[![Admin](https://img.shields.io/badge/-CONTROL_PANEL-black?style=for-the-badge&logo=windows-terminal)](https://jobsyapp.ru/)
+| Version | Download | Source |
+|---------|----------|--------|
+| `v1.0.0` | [📲 APK](https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk) | [📦 Source](https://github.com/TP-Jobsy/jobsy-client/tree/v1.0.0) |
+
+</div>
+
+## Admin Console
+<div align="center">
+
+[![Admin Portal](https://img.shields.io/badge/Access_Admin_Portal-2088FF?style=for-the-badge&logo=heroku)](https://jobsyapp.ru/)
+
+</div>
