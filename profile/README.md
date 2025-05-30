@@ -145,7 +145,6 @@
 
 [![Версия](https://img.shields.io/badge/ВЕРСИЯ-v1.0.0-6e5494?style=for-the-badge&logo=git&logoColor=white)](https://github.com/TP-Jobsy/jobsy-client/releases)
 [![Скачать APK](https://img.shields.io/badge/СКАЧАТЬ_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk)
-[![Исходный код](https://img.shields.io/badge/КОД-181717?style=for-the-badge&logo=github)](https://github.com/TP-Jobsy/jobsy-client/tree/v1.0.0)
 
 </div>
 
