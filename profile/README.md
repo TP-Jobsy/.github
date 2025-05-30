@@ -143,5 +143,16 @@
 [![Release](https://img.shields.io/badge/Download-APK-blue?style=flat-square)](https://github.com/TP-Jobsy/jobsy-client/releases/download/v1.0.0/app-release.apk)
 [![Source](https://img.shields.io/badge/Source-Code-lightgrey?style=flat-square)](https://github.com/TP-Jobsy/jobsy-client/tree/v1.0.0)
 
+**Основные изменения:**
+- Полнофункциональное MVP с основными сценариями использования
+- Система аутентификации и профилей
+- Механизм создания/поиска проектов
+
 ## 🔐 Административная панель
 [![Admin](https://img.shields.io/badge/Admin_Panel-Live-green?style=flat-square)](https://jobsyapp.ru/)
+
+**Функционал:**
+- Управление пользователями
+- Модерация контента
+- Аналитика платформы
+- Системные настройки
