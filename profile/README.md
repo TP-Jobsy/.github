@@ -117,7 +117,8 @@
   [PDF](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/atta_1/presentation_1_atta.pdf)
 
 - **MVP (2 аттестация)**  
-  [PDF](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/atta_2/presentation_2_atta.pdf)
+  [PPTX](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/atta_2/presentaion_2_atta.pptx)
+  [PDF](https://github.com/TP-Jobsy/jobsy-docs/blob/main/presentation/atta_2/presentaion_2_atta.pdf)
 
 ---
 
