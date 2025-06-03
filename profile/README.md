@@ -199,3 +199,6 @@
 
 > **ℹ️ Лицензия**  
 > Этот проект распространяется под лицензией [MIT](https://github.com/TP-Jobsy/.github/blob/main/profile/LICENSE).  
+
+## Инструкция по использованию
+
