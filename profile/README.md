@@ -204,6 +204,6 @@
 
 -**Инструкция по использованию**
  - DOCX: [Инструкция.docx](https://github.com/TP-Jobsy/jobsy-docs/blob/main/instruction/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8E.docx)
- - PDF: [Инструкция.pdf]([https://github.com/TP-Jobsy/jobsy-docs/blob/main/testing/Тестирование%20приложения%20Jobsy.pdf](https://github.com/TP-Jobsy/jobsy-docs/blob/main/instruction/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8E.pdf))
+ - PDF: [Инструкция.pdf](https://github.com/TP-Jobsy/jobsy-docs/blob/main/instruction/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8E.pdf)
 
 
