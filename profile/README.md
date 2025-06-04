@@ -81,7 +81,7 @@
     - DOCX: [Отчёт_PM.docx](https://github.com/TP-Jobsy/jobsy-docs/blob/main/roadmap/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B5%D0%BC%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B5.docx)
     - PDF: [Отчёт_PM.pdf](https://github.com/TP-Jobsy/jobsy-docs/blob/main/roadmap/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B5%D0%BC%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B5.pdf)
 
-- **Крусовой проект**
+- **Курсовой проект**
     - DOCX: [Курсовой проект.docx](https://github.com/TP-Jobsy/jobsy-docs/blob/main/course-project/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B8%CC%86%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx)
     - PDF: [Курсовой проект.pdf](https://github.com/TP-Jobsy/jobsy-docs/blob/main/course-project/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B8%CC%86%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf)
 
